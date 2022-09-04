@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "F:/semester 2/DLD/sessional/TB_mux_add_sub_multi_comp_isim_beh.exe" -prj "F:/semester 2/DLD/sessional/TB_mux_add_sub_multi_comp_beh.prj" "work.TB_mux_add_sub_multi_comp" "work.glbl" 
